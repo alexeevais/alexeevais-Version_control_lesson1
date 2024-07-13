@@ -5,10 +5,10 @@
 * git init
 * git status
 * git add
-* Git commit
+* git commit
 * git commit --amend
 * git log
-* Git checkout
+* git checkout
 * git branch
 * git merge
 * git pull
