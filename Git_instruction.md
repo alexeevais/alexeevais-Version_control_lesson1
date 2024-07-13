@@ -4,6 +4,7 @@
 * git --version
 * git config
 * git init
+### Команды для работы с коммитами
 * git status
 * git add
 * git commit
@@ -13,8 +14,8 @@
 * git branch
 * git merge
 * git pull
-* git push
 * git clone
+* git push
 
 ### **Команды для страта работы GIT**
 
