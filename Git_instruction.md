@@ -29,3 +29,4 @@
 * git revert
 
 ## Ссылка на полную статью по работе с Git
+[Гайд по GIT](https://www.atlassian.com/ru/git/glossary#commands)
