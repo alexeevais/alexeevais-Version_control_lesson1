@@ -1,5 +1,8 @@
+
 # Инстукция по GIT
 ![Заголовок](Картинка_для_заголовка.png)
+## Ссылка на полную статью по работе с Git
+[Гайд по GIT](https://www.atlassian.com/ru/git/glossary#commands)
 1. ### Изученные команды
 * git --version
 * git config
@@ -176,5 +179,3 @@ git clone https://github.com/username/repository.git
 * git reset
 * git revert
 
-## Ссылка на полную статью по работе с Git
-[Гайд по GIT](https://www.atlassian.com/ru/git/glossary#commands)
